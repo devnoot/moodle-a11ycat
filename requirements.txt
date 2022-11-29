@@ -9,3 +9,4 @@ python-decouple==3.6
 requests==2.28.1
 tomli==2.0.1
 urllib3==1.26.12
+decouple==0.0.7

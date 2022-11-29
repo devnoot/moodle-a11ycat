@@ -19,4 +19,6 @@ It works by downloading course materials from Moodle, converting them to HTML, t
 pip install -r requirements.txt
 npm i --global access-sniff
 python3 main.py
+
+Copy `local.env` to `.env` fill out
 ```
